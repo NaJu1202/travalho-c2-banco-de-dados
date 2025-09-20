@@ -1,0 +1,11 @@
+[project]
+name = "trabalho-banco-de-dados"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "loguru>=0.7.3",
+    "tenacity>=9.1.2",
+    "tqdm>=4.67.1",
+]
